@@ -12,6 +12,7 @@ namespace GitDemo2
         {
             String s = "New version 2";
             String t = "Master version";
+            String k = "En till update";
         }
     }
 }
