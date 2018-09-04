@@ -11,6 +11,7 @@ namespace GitDemo2
         static void Main(string[] args)
         {
             String s = "New version 2";
+            String t = "Master version";
         }
     }
 }
