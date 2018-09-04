@@ -13,6 +13,7 @@ namespace GitDemo2
             String s = "New version 2";
             String t = "Master version";
             String k = "En till update";
+            String l = "Updatering från VS";
             string j = "Update från web";
         }
     }
