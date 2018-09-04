@@ -10,14 +10,7 @@ namespace GitDemo2
     {
         static void Main(string[] args)
         {
-            String s = "New version 2";
-            String t = "Master version";
-            String k = "En till update";
-            string j = "Update från web";
-            String l = "Updatering från VS";
-            string j = "Update från web";
-            string o = "Merge from origin";
-            string h = "master-originmaster merge";
+
         }
     }
 }
