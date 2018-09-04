@@ -16,6 +16,7 @@ namespace GitDemo2
             String l = "Updatering från VS";
             string j = "Update från web";
             string o = "Merge from origin";
+            string h = "master-originmaster merge";
         }
     }
 }
